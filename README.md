@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Muhammad Abdullah Mateen, a BSCS student at UBIT passionate about data science and artificial intelligence. Currently mastering Python and exploring machine learning algorithms. I love working on data-driven projects and turning raw data into meaningful insights. Always eager to learn, collaborate, and contribute to innovative solutions in tech. Let's connect and build something amazing together!<br>
+I'm Muhammad Abdullah Mateen, a BSCS student at UBIT passionate about data science and artificial intelligence. Currently mastering Python and exploring machine learning algorithms. I love working on data driven projects and turning raw data into meaningful insights. Always eager to learn, collaborate, and contribute to innovative solutions in tech. Let's connect and build something amazing together!<br>
 
 
 ## 🌐 Socials:
